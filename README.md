@@ -9,4 +9,5 @@ a classe de controle para a comunicação. A resposta da tarefa deve ser o print
 com cada tempo.
 
 **Demonstração de execução:**
+
 <img width="516" height="165" alt="image" src="https://github.com/user-attachments/assets/1f018cc3-3882-4f0b-8176-c66e5f1bfb5f" />
