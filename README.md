@@ -1,23 +1,9 @@
-<style>
-    @font-face {
-        font-family: 'JetBrainsMonoNerdFont'; /* Este é o nome que você usará depois */
-        src: url('https://github.com/ryanoasis/nerd-fonts/raw/master/patched-fonts/JetBrainsMono/JetBrainsMonoNerdFont-Regular.ttf') format('truetype');
-        font-weight: normal;
-        font-style: normal;
-    }
-        
-    h1 {
-        font-family: 'JetBrainsMonoNerdFont', monospace;
-        font-size: 3em;
-    }
-    title {
-        font-family: 'JetBrainsMonoNerdFont', monospace;
-        font-size: 3em;
-    }
-</style>
+# Atividade 01 - Tempo de Execução 
 
-<title>Atividade 01</title> 
-
-<h1>
-
-</h1>
+**Objetivo:**
+Fazer uma aplicação Java em Eclipse que tenha uma operação que receba um vetor de 1000
+posições inteiras (Preencher todas as posições com valor 0) e gere o tempo gasto, em
+Segundos, para percorrer o vetor. Repetir para 10000 e 100000 posições. A aplicação deve
+ter uma classe de controle com métodos para operações e uma classe de visão que instancie
+a classe de controle para a comunicação. A resposta da tarefa deve ser o print do console
+com cada tempo.
